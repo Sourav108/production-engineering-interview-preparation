@@ -13,8 +13,8 @@ A comprehensive tracking matrix mapping every production engineering core concep
 | **01. Reliability Dimensions & Trade-offs** | [x] | [x] | [x] | [x] | [x] | [ ] | [ ] | [x] | [ ] | [ ] |
 | **02. Linux Kernel `/proc`, Sockets & SRE Tools**| [x] | [x] | [x] | [x] | [x] | [ ] | [ ] | [x] | [ ] | [ ] |
 | **03. CPU Saturation, Memory Leaks & OOM** | [x] | [x] | [x] | [x] | [x] | [ ] | [ ] | [x] | [ ] | [ ] |
-| **04. DNS, TCP, TLS, Load Balancer Timeouts**| [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
-| **05. Liveness/Readiness, Blast Radius, Shutdown**| [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
+| **04. DNS, TCP, TLS, Load Balancer Timeouts**| [x] | [x] | [x] | [x] | [x] | [ ] | [ ] | [x] | [ ] | [ ] |
+| **05. Liveness/Readiness, Blast Radius, Shutdown**| [x] | [x] | [x] | [x] | [x] | [ ] | [ ] | [x] | [ ] | [ ] |
 | **06. Telemetry Spectrum & High Cardinality** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
 | **07. Structured Logs, OpenTelemetry & Tail p99**| [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
 | **08. Multi-Window Multi-Burn Rate Alerting** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |

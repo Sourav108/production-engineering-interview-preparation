@@ -1,9 +1,9 @@
 # Repository State Tracking
 
 ## Current Status
-- **Last completed phase**: none (Initialization complete)
-- **Last commit**: `chore: initialize production engineering interview curriculum`
-- **Next action**: Phase 1 — Modules 1–3 (`feat: add production foundations`)
+- **Last completed phase**: Phase 1 — Modules 1–3 (`feat: add production foundations`)
+- **Last commit**: `feat: add production foundations`
+- **Next action**: Phase 2 — Modules 4–5 (`feat: add request path and reliability`)
 
 ---
 
@@ -11,7 +11,7 @@
 
 | Dimension | Completed | Target | Status |
 | :--- | :-: | :-: | :--- |
-| **Numbered Modules** | 0 | 30 | Initialized (Pending Phase 1) |
+| **Numbered Modules** | 3 | 30 | Modules 01–03 Complete |
 | **Modules in Progress** | None | — | — |
 | **Interview Question Batches** | 0 | 20 (500 Qs) | Pending Phase 10 |
 | **Incident Scenarios** | 0 | 50+ | Pending Phase 12 |
@@ -23,7 +23,7 @@
 
 ## Phase Execution Checklist
 - [x] **Phase 0**: Repository Initialization (§21)
-- [ ] **Phase 1**: Modules 01–03 (`feat: add production foundations`)
+- [x] **Phase 1**: Modules 01–03 (`feat: add production foundations`)
 - [ ] **Phase 2**: Modules 04–05 (`feat: add request path and reliability`)
 - [ ] **Phase 3**: Modules 06–08 (`feat: add observability and alerting`)
 - [ ] **Phase 4**: Modules 09–10 (`feat: add slo and incident response`)
@@ -41,5 +41,7 @@
 
 ---
 
-## Known Gaps & Deferred Work
-- None. Repository structure initialized cleanly per §21.
+## Completed Modules Detail
+- **Module 01: Production Engineering Foundations** (3 lessons: `01-what-is-production-engineering.md`, `02-reliability-dimensions-and-tradeoffs.md`, `03-pe-vs-sre-vs-devops.md`)
+- **Module 02: Linux and System Behavior** (3 lessons: `01-reading-a-stressed-linux-system.md`, `02-proc-filesystem-and-pressure-stall-info.md`, `03-linux-cli-triage-toolchain.md`)
+- **Module 03: Processes, Memory and CPU** (4 lessons: `01-process-states-and-threads.md`, `02-memory-leaks-and-oom-killer.md`, `03-cpu-saturation-and-profiling.md`, `04-fd-and-socket-exhaustion.md`)

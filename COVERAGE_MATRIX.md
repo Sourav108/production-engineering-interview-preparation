@@ -10,9 +10,9 @@ A comprehensive tracking matrix mapping every production engineering core concep
 
 | Module & Core Concept | Theory | Example | Failure Mode | Observability | Debugging | Lab | Incident | Questions | Project | Runbook |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **01. Reliability Dimensions & Trade-offs** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
-| **02. Linux Kernel `/proc`, Sockets & SRE Tools**| [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
-| **03. CPU Saturation, Memory Leaks & OOM** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
+| **01. Reliability Dimensions & Trade-offs** | [x] | [x] | [x] | [x] | [x] | [ ] | [ ] | [x] | [ ] | [ ] |
+| **02. Linux Kernel `/proc`, Sockets & SRE Tools**| [x] | [x] | [x] | [x] | [x] | [ ] | [ ] | [x] | [ ] | [ ] |
+| **03. CPU Saturation, Memory Leaks & OOM** | [x] | [x] | [x] | [x] | [x] | [ ] | [ ] | [x] | [ ] | [ ] |
 | **04. DNS, TCP, TLS, Load Balancer Timeouts**| [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
 | **05. Liveness/Readiness, Blast Radius, Shutdown**| [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
 | **06. Telemetry Spectrum & High Cardinality** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |

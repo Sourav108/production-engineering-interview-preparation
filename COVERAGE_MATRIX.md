@@ -36,7 +36,7 @@ A comprehensive tracking matrix mapping every production engineering core concep
 | **24. Multi-Region Failover, RPO & RTO** | [x] | [x] | [x] | [x] | [x] | [ ] | [ ] | [x] | [ ] | [ ] |
 | **25. Secret Management & Certificate Rotation**| [x] | [x] | [x] | [x] | [x] | [ ] | [ ] | [x] | [ ] | [ ] |
 | **26. Toil Measurement & Self-Healing Systems** | [x] | [x] | [x] | [x] | [x] | [ ] | [ ] | [x] | [ ] | [ ] |
-| **27. Chaos Engineering & Fault Injection** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
-| **28. Blameless Postmortems & Systemic Fixes** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
+| **27. Chaos Engineering & Fault Injection** | [x] | [x] | [x] | [x] | [x] | [ ] | [ ] | [x] | [ ] | [ ] |
+| **28. Blameless Postmortems & Systemic Fixes** | [x] | [x] | [x] | [x] | [x] | [ ] | [ ] | [x] | [ ] | [ ] |
 | **29. 500 Production Interview Questions** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
 | **30. Reference Production System Designs** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |

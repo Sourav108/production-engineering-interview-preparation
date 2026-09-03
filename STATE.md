@@ -1,9 +1,9 @@
 # Repository State Tracking
 
 ## Current Status
-- **Last completed phase**: Phase 2 — Modules 4–5 (`feat: add request path and reliability`)
-- **Last commit**: `feat: add request path and reliability`
-- **Next action**: Phase 3 — Modules 6–8 (`feat: add observability and alerting`)
+- **Last completed phase**: Phase 3 — Modules 6–8 (`feat: add observability and alerting`)
+- **Last commit**: `feat: add observability and alerting`
+- **Next action**: Phase 4 — Modules 9–10 (`feat: add slo and incident response`)
 
 ---
 
@@ -11,7 +11,7 @@
 
 | Dimension | Completed | Target | Status |
 | :--- | :-: | :-: | :--- |
-| **Numbered Modules** | 5 | 30 | Modules 01–05 Complete |
+| **Numbered Modules** | 8 | 30 | Modules 01–08 Complete |
 | **Modules in Progress** | None | — | — |
 | **Interview Question Batches** | 0 | 20 (500 Qs) | Pending Phase 10 |
 | **Incident Scenarios** | 0 | 50+ | Pending Phase 12 |
@@ -25,7 +25,7 @@
 - [x] **Phase 0**: Repository Initialization (§21)
 - [x] **Phase 1**: Modules 01–03 (`feat: add production foundations`)
 - [x] **Phase 2**: Modules 04–05 (`feat: add request path and reliability`)
-- [ ] **Phase 3**: Modules 06–08 (`feat: add observability and alerting`)
+- [x] **Phase 3**: Modules 06–08 (`feat: add observability and alerting`)
 - [ ] **Phase 4**: Modules 09–10 (`feat: add slo and incident response`)
 - [ ] **Phase 5**: Modules 11–14 (`feat: add debugging performance and capacity`)
 - [ ] **Phase 6**: Modules 15–18 (`feat: add dependency resilience`)
@@ -45,5 +45,8 @@
 - **Module 01: Production Engineering Foundations** (3 lessons)
 - **Module 02: Linux and System Behavior** (3 lessons)
 - **Module 03: Processes, Memory and CPU** (4 lessons)
-- **Module 04: Networking and Request Path** (3 lessons: `01-end-to-end-request-path.md`, `02-dns-tcp-and-tls-failure-modes.md`, `03-load-balancers-and-timeouts.md`)
-- **Module 05: Service Reliability** (3 lessons: `01-failure-domains-and-redundancy.md`, `02-health-checks-liveness-vs-readiness.md`, `03-graceful-shutdown-and-lifecycle.md`)
+- **Module 04: Networking and Request Path** (3 lessons)
+- **Module 05: Service Reliability** (3 lessons)
+- **Module 06: Observability Fundamentals** (2 lessons: `01-observability-vs-monitoring.md`, `02-the-telemetry-spectrum-and-cardinality.md`)
+- **Module 07: Logs, Metrics and Traces** (3 lessons: `01-structured-logging-and-correlation.md`, `02-metrics-types-and-percentiles.md`, `03-opentelemetry-and-distributed-tracing.md`)
+- **Module 08: Monitoring and Alerting** (3 lessons: `01-designing-actionable-alerts.md`, `02-symptom-vs-cause-based-alerting.md`, `03-bad-alert-to-improved-alert-refactoring.md`)

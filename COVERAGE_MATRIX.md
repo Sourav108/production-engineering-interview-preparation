@@ -15,9 +15,9 @@ A comprehensive tracking matrix mapping every production engineering core concep
 | **03. CPU Saturation, Memory Leaks & OOM** | [x] | [x] | [x] | [x] | [x] | [ ] | [ ] | [x] | [ ] | [ ] |
 | **04. DNS, TCP, TLS, Load Balancer Timeouts**| [x] | [x] | [x] | [x] | [x] | [ ] | [ ] | [x] | [ ] | [ ] |
 | **05. Liveness/Readiness, Blast Radius, Shutdown**| [x] | [x] | [x] | [x] | [x] | [ ] | [ ] | [x] | [ ] | [ ] |
-| **06. Telemetry Spectrum & High Cardinality** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
-| **07. Structured Logs, OpenTelemetry & Tail p99**| [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
-| **08. Multi-Window Multi-Burn Rate Alerting** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
+| **06. Telemetry Spectrum & High Cardinality** | [x] | [x] | [x] | [x] | [x] | [ ] | [ ] | [x] | [ ] | [ ] |
+| **07. Structured Logs, OpenTelemetry & Tail p99**| [x] | [x] | [x] | [x] | [x] | [ ] | [ ] | [x] | [ ] | [ ] |
+| **08. Multi-Window Multi-Burn Rate Alerting** | [x] | [x] | [x] | [x] | [x] | [ ] | [ ] | [x] | [ ] | [ ] |
 | **09. User Journey SLIs, SLOs & Error Budgets** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
 | **10. Incident Commander & SIGNAL Protocol** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
 | **11. Hypothesis-Driven Triage Methodology** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |

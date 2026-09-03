@@ -31,12 +31,12 @@ A comprehensive tracking matrix mapping every production engineering core concep
 | **19. Cache Stampedes, Invalidation & TTLs** | [x] | [x] | [x] | [x] | [x] | [ ] | [ ] | [x] | [ ] | [ ] |
 | **20. DB Pool Sizing, Slow Queries & Lag** | [x] | [x] | [x] | [x] | [x] | [ ] | [ ] | [x] | [ ] | [ ] |
 | **21. Distributed Cascades & Network Partitions**| [x] | [x] | [x] | [x] | [x] | [ ] | [ ] | [x] | [ ] | [ ] |
-| **22. Canary Rollouts, Risk Gates & Flags** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
-| **23. Safe DB Migrations & Automated Rollbacks**| [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
-| **24. Multi-Region Failover, RPO & RTO** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
-| **25. Secret Management & Certificate Rotation**| [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
-| **26. Toil Measurement & Self-Healing Systems** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
-| **27. Chaos Engineering & Fault Injection** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
-| **28. Blameless Postmortems & Systemic Fixes** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
-| **29. 500 Production Interview Questions** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
-| **30. Reference Production System Designs** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
+| **22. Canary Rollouts, Risk Gates & Flags** | [x] | [x] | [x] | [x] | [x] | [ ] | [ ] | [x] | [ ] | [ ] |
+| **23. Safe DB Migrations & Automated Rollbacks**| [x] | [x] | [x] | [x] | [x] | [ ] | [ ] | [x] | [ ] | [ ] |
+| **24. Multi-Region Failover, RPO & RTO** | [x] | [x] | [x] | [x] | [x] | [ ] | [ ] | [x] | [ ] | [ ] |
+| **25. Secret Management & Certificate Rotation**| [x] | [x] | [x] | [x] | [x] | [ ] | [ ] | [x] | [ ] | [ ] |
+| **26. Toil Measurement & Self-Healing Systems** | [x] | [x] | [x] | [x] | [x] | [ ] | [ ] | [x] | [ ] | [ ] |
+| **27. Chaos Engineering & Fault Injection** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
+| **28. Blameless Postmortems & Systemic Fixes** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
+| **29. 500 Production Interview Questions** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
+| **30. Reference Production System Designs** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |

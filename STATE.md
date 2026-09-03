@@ -1,9 +1,9 @@
 # Repository State Tracking
 
 ## Current Status
-- **Last completed phase**: Phase 7 — Modules 19–21 (`feat: add caching database and distributed failures`)
-- **Last commit**: `feat: add caching database and distributed failures`
-- **Next action**: Phase 8 — Modules 22–26 (`feat: add release recovery security automation`)
+- **Last completed phase**: Phase 8 — Modules 22–26 (`feat: add release recovery security automation`)
+- **Last commit**: `feat: add release recovery security automation`
+- **Next action**: Phase 9 — Modules 27–28 (`feat: add reliability testing and postmortems`)
 
 ---
 
@@ -11,7 +11,7 @@
 
 | Dimension | Completed | Target | Status |
 | :--- | :-: | :-: | :--- |
-| **Numbered Modules** | 21 | 30 | Modules 01–21 Complete |
+| **Numbered Modules** | 26 | 30 | Modules 01–26 Complete |
 | **Modules in Progress** | None | — | — |
 | **Interview Question Batches** | 0 | 20 (500 Qs) | Pending Phase 10 |
 | **Incident Scenarios** | 0 | 50+ | Pending Phase 12 |
@@ -30,7 +30,7 @@
 - [x] **Phase 5**: Modules 11–14 (`feat: add debugging performance and capacity`)
 - [x] **Phase 6**: Modules 15–18 (`feat: add dependency resilience`)
 - [x] **Phase 7**: Modules 19–21 (`feat: add caching database and distributed failures`)
-- [ ] **Phase 8**: Modules 22–26 (`feat: add release recovery security automation`)
+- [x] **Phase 8**: Modules 22–26 (`feat: add release recovery security automation`)
 - [ ] **Phase 9**: Modules 27–28 (`feat: add reliability testing and postmortems`)
 - [ ] **Phase 10**: Module 29 Batches 1–20 (`feat: add production interview questions batch N`)
 - [ ] **Phase 11**: Module 30 (`feat: add production system design`)
@@ -60,6 +60,11 @@
 - **Module 16: Timeouts, Retries and Circuit Breakers** (3 lessons)
 - **Module 17: Rate Limiting and Backpressure** (2 lessons)
 - **Module 18: Graceful Degradation and Fault Isolation** (2 lessons)
-- **Module 19: Caching and Performance** (2 lessons: `01-cache-aside-and-invalidation.md`, `02-cache-stampede-and-dogpiling-mitigation.md`)
-- **Module 20: Database Reliability** (3 lessons: `01-connection-pool-sizing-and-exhaustion.md`, `02-lock-contention-long-transactions-and-lag.md`, `03-failover-mechanics-and-split-brain.md`)
-- **Module 21: Distributed Systems Failures** (2 lessons: `01-anatomy-of-a-cascading-failure.md`, `02-network-partitions-clock-skew-and-ordering.md`)
+- **Module 19: Caching and Performance** (2 lessons)
+- **Module 20: Database Reliability** (3 lessons)
+- **Module 21: Distributed Systems Failures** (2 lessons)
+- **Module 22: Release Engineering** (2 lessons: `01-deployment-risks-and-canary-rollouts.md`, `02-feature-flags-and-kill-switches.md`)
+- **Module 23: Change Management and Rollback** (2 lessons: `01-rollback-vs-forward-fix-decision-framework.md`, `02-expand-and-contract-database-migrations.md`)
+- **Module 24: High Availability and Disaster Recovery** (2 lessons: `01-rpo-rto-and-disaster-recovery-tiers.md`, `02-multi-region-active-active-vs-active-passive.md`)
+- **Module 25: Production Security** (2 lessons: `01-secrets-management-and-cert-rotation.md`, `02-credential-compromise-and-incident-response.md`)
+- **Module 26: Operational Automation and Toil** (2 lessons: `01-quantifying-and-eliminating-toil.md`, `02-self-healing-and-safe-remediation-automation.md`)

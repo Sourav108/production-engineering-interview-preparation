@@ -1,9 +1,9 @@
 # Repository State Tracking
 
 ## Current Status
-- **Last completed phase**: Phase 5 — Modules 11–14 (`feat: add debugging performance and capacity`)
-- **Last commit**: `feat: add debugging performance and capacity`
-- **Next action**: Phase 6 — Modules 15–18 (`feat: add dependency resilience`)
+- **Last completed phase**: Phase 6 — Modules 15–18 (`feat: add dependency resilience`)
+- **Last commit**: `feat: add dependency resilience`
+- **Next action**: Phase 7 — Modules 19–21 (`feat: add caching database and distributed failures`)
 
 ---
 
@@ -11,7 +11,7 @@
 
 | Dimension | Completed | Target | Status |
 | :--- | :-: | :-: | :--- |
-| **Numbered Modules** | 14 | 30 | Modules 01–14 Complete |
+| **Numbered Modules** | 18 | 30 | Modules 01–18 Complete |
 | **Modules in Progress** | None | — | — |
 | **Interview Question Batches** | 0 | 20 (500 Qs) | Pending Phase 10 |
 | **Incident Scenarios** | 0 | 50+ | Pending Phase 12 |
@@ -28,7 +28,7 @@
 - [x] **Phase 3**: Modules 06–08 (`feat: add observability and alerting`)
 - [x] **Phase 4**: Modules 09–10 (`feat: add slo and incident response`)
 - [x] **Phase 5**: Modules 11–14 (`feat: add debugging performance and capacity`)
-- [ ] **Phase 6**: Modules 15–18 (`feat: add dependency resilience`)
+- [x] **Phase 6**: Modules 15–18 (`feat: add dependency resilience`)
 - [ ] **Phase 7**: Modules 19–21 (`feat: add caching database and distributed failures`)
 - [ ] **Phase 8**: Modules 22–26 (`feat: add release recovery security automation`)
 - [ ] **Phase 9**: Modules 27–28 (`feat: add reliability testing and postmortems`)
@@ -52,7 +52,11 @@
 - **Module 08: Monitoring and Alerting** (3 lessons)
 - **Module 09: SLI, SLO, SLA and Error Budgets** (3 lessons)
 - **Module 10: On-Call and Incident Response** (3 lessons)
-- **Module 11: Production Debugging** (2 lessons: `01-evidence-driven-debugging-methodology.md`, `02-hypothesis-elimination-and-differential-diagnosis.md`)
-- **Module 12: Latency and Performance** (3 lessons: `01-latency-decomposition-model.md`, `02-queueing-theory-and-littles-law.md`, `03-tail-latency-amplification.md`)
-- **Module 13: Capacity Planning** (2 lessons: `01-resource-demand-and-headroom-forecasting.md`, `02-per-resource-saturation-and-bottlenecks.md`)
-- **Module 14: Load Testing and Benchmarking** (2 lessons: `01-load-stress-soak-and-spike-testing.md`, `02-honest-benchmarking-and-percentiles.md`)
+- **Module 11: Production Debugging** (2 lessons)
+- **Module 12: Latency and Performance** (3 lessons)
+- **Module 13: Capacity Planning** (2 lessons)
+- **Module 14: Load Testing and Benchmarking** (2 lessons)
+- **Module 15: Dependency Management** (2 lessons: `01-critical-vs-optional-dependencies.md`, `02-dependency-budgets-and-blast-radius.md`)
+- **Module 16: Timeouts, Retries and Circuit Breakers** (3 lessons: `01-anatomy-of-a-retry-storm.md`, `02-exponential-backoff-full-jitter-and-retry-budgets.md`, `03-circuit-breaker-state-machine-mechanics.md`)
+- **Module 17: Rate Limiting and Backpressure** (2 lessons: `01-token-bucket-and-leaky-bucket-algorithms.md`, `02-adaptive-load-shedding-and-admission-control.md`)
+- **Module 18: Graceful Degradation and Fault Isolation** (2 lessons: `01-bulkhead-isolation-architecture.md`, `02-graceful-fallbacks-and-dangerous-fallback-traps.md`)

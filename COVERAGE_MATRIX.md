@@ -28,9 +28,9 @@ A comprehensive tracking matrix mapping every production engineering core concep
 | **16. Jittered Backoff, Retry Storms & Breakers**| [x] | [x] | [x] | [x] | [x] | [ ] | [ ] | [x] | [ ] | [ ] |
 | **17. Token/Leaky Buckets & Backpressure** | [x] | [x] | [x] | [x] | [x] | [ ] | [ ] | [x] | [ ] | [ ] |
 | **18. Fallback Responses, Bulkheads & Shedding**| [x] | [x] | [x] | [x] | [x] | [ ] | [ ] | [x] | [ ] | [ ] |
-| **19. Cache Stampedes, Invalidation & TTLs** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
-| **20. DB Pool Sizing, Slow Queries & Lag** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
-| **21. Distributed Cascades & Network Partitions**| [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
+| **19. Cache Stampedes, Invalidation & TTLs** | [x] | [x] | [x] | [x] | [x] | [ ] | [ ] | [x] | [ ] | [ ] |
+| **20. DB Pool Sizing, Slow Queries & Lag** | [x] | [x] | [x] | [x] | [x] | [ ] | [ ] | [x] | [ ] | [ ] |
+| **21. Distributed Cascades & Network Partitions**| [x] | [x] | [x] | [x] | [x] | [ ] | [ ] | [x] | [ ] | [ ] |
 | **22. Canary Rollouts, Risk Gates & Flags** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
 | **23. Safe DB Migrations & Automated Rollbacks**| [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
 | **24. Multi-Region Failover, RPO & RTO** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |

@@ -1,9 +1,9 @@
 # Repository State Tracking
 
 ## Current Status
-- **Last completed phase**: Phase 6 — Modules 15–18 (`feat: add dependency resilience`)
-- **Last commit**: `feat: add dependency resilience`
-- **Next action**: Phase 7 — Modules 19–21 (`feat: add caching database and distributed failures`)
+- **Last completed phase**: Phase 7 — Modules 19–21 (`feat: add caching database and distributed failures`)
+- **Last commit**: `feat: add caching database and distributed failures`
+- **Next action**: Phase 8 — Modules 22–26 (`feat: add release recovery security automation`)
 
 ---
 
@@ -11,7 +11,7 @@
 
 | Dimension | Completed | Target | Status |
 | :--- | :-: | :-: | :--- |
-| **Numbered Modules** | 18 | 30 | Modules 01–18 Complete |
+| **Numbered Modules** | 21 | 30 | Modules 01–21 Complete |
 | **Modules in Progress** | None | — | — |
 | **Interview Question Batches** | 0 | 20 (500 Qs) | Pending Phase 10 |
 | **Incident Scenarios** | 0 | 50+ | Pending Phase 12 |
@@ -29,7 +29,7 @@
 - [x] **Phase 4**: Modules 09–10 (`feat: add slo and incident response`)
 - [x] **Phase 5**: Modules 11–14 (`feat: add debugging performance and capacity`)
 - [x] **Phase 6**: Modules 15–18 (`feat: add dependency resilience`)
-- [ ] **Phase 7**: Modules 19–21 (`feat: add caching database and distributed failures`)
+- [x] **Phase 7**: Modules 19–21 (`feat: add caching database and distributed failures`)
 - [ ] **Phase 8**: Modules 22–26 (`feat: add release recovery security automation`)
 - [ ] **Phase 9**: Modules 27–28 (`feat: add reliability testing and postmortems`)
 - [ ] **Phase 10**: Module 29 Batches 1–20 (`feat: add production interview questions batch N`)
@@ -56,7 +56,10 @@
 - **Module 12: Latency and Performance** (3 lessons)
 - **Module 13: Capacity Planning** (2 lessons)
 - **Module 14: Load Testing and Benchmarking** (2 lessons)
-- **Module 15: Dependency Management** (2 lessons: `01-critical-vs-optional-dependencies.md`, `02-dependency-budgets-and-blast-radius.md`)
-- **Module 16: Timeouts, Retries and Circuit Breakers** (3 lessons: `01-anatomy-of-a-retry-storm.md`, `02-exponential-backoff-full-jitter-and-retry-budgets.md`, `03-circuit-breaker-state-machine-mechanics.md`)
-- **Module 17: Rate Limiting and Backpressure** (2 lessons: `01-token-bucket-and-leaky-bucket-algorithms.md`, `02-adaptive-load-shedding-and-admission-control.md`)
-- **Module 18: Graceful Degradation and Fault Isolation** (2 lessons: `01-bulkhead-isolation-architecture.md`, `02-graceful-fallbacks-and-dangerous-fallback-traps.md`)
+- **Module 15: Dependency Management** (2 lessons)
+- **Module 16: Timeouts, Retries and Circuit Breakers** (3 lessons)
+- **Module 17: Rate Limiting and Backpressure** (2 lessons)
+- **Module 18: Graceful Degradation and Fault Isolation** (2 lessons)
+- **Module 19: Caching and Performance** (2 lessons: `01-cache-aside-and-invalidation.md`, `02-cache-stampede-and-dogpiling-mitigation.md`)
+- **Module 20: Database Reliability** (3 lessons: `01-connection-pool-sizing-and-exhaustion.md`, `02-lock-contention-long-transactions-and-lag.md`, `03-failover-mechanics-and-split-brain.md`)
+- **Module 21: Distributed Systems Failures** (2 lessons: `01-anatomy-of-a-cascading-failure.md`, `02-network-partitions-clock-skew-and-ordering.md`)

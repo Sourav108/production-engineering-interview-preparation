@@ -1,9 +1,9 @@
 # Repository State Tracking
 
 ## Current Status
-- **Last completed phase**: Phase 3 — Modules 6–8 (`feat: add observability and alerting`)
-- **Last commit**: `feat: add observability and alerting`
-- **Next action**: Phase 4 — Modules 9–10 (`feat: add slo and incident response`)
+- **Last completed phase**: Phase 4 — Modules 9–10 (`feat: add slo and incident response`)
+- **Last commit**: `feat: add slo and incident response`
+- **Next action**: Phase 5 — Modules 11–14 (`feat: add debugging performance and capacity`)
 
 ---
 
@@ -11,7 +11,7 @@
 
 | Dimension | Completed | Target | Status |
 | :--- | :-: | :-: | :--- |
-| **Numbered Modules** | 8 | 30 | Modules 01–08 Complete |
+| **Numbered Modules** | 10 | 30 | Modules 01–10 Complete |
 | **Modules in Progress** | None | — | — |
 | **Interview Question Batches** | 0 | 20 (500 Qs) | Pending Phase 10 |
 | **Incident Scenarios** | 0 | 50+ | Pending Phase 12 |
@@ -26,7 +26,7 @@
 - [x] **Phase 1**: Modules 01–03 (`feat: add production foundations`)
 - [x] **Phase 2**: Modules 04–05 (`feat: add request path and reliability`)
 - [x] **Phase 3**: Modules 06–08 (`feat: add observability and alerting`)
-- [ ] **Phase 4**: Modules 09–10 (`feat: add slo and incident response`)
+- [x] **Phase 4**: Modules 09–10 (`feat: add slo and incident response`)
 - [ ] **Phase 5**: Modules 11–14 (`feat: add debugging performance and capacity`)
 - [ ] **Phase 6**: Modules 15–18 (`feat: add dependency resilience`)
 - [ ] **Phase 7**: Modules 19–21 (`feat: add caching database and distributed failures`)
@@ -47,6 +47,8 @@
 - **Module 03: Processes, Memory and CPU** (4 lessons)
 - **Module 04: Networking and Request Path** (3 lessons)
 - **Module 05: Service Reliability** (3 lessons)
-- **Module 06: Observability Fundamentals** (2 lessons: `01-observability-vs-monitoring.md`, `02-the-telemetry-spectrum-and-cardinality.md`)
-- **Module 07: Logs, Metrics and Traces** (3 lessons: `01-structured-logging-and-correlation.md`, `02-metrics-types-and-percentiles.md`, `03-opentelemetry-and-distributed-tracing.md`)
-- **Module 08: Monitoring and Alerting** (3 lessons: `01-designing-actionable-alerts.md`, `02-symptom-vs-cause-based-alerting.md`, `03-bad-alert-to-improved-alert-refactoring.md`)
+- **Module 06: Observability Fundamentals** (2 lessons)
+- **Module 07: Logs, Metrics and Traces** (3 lessons)
+- **Module 08: Monitoring and Alerting** (3 lessons)
+- **Module 09: SLI, SLO, SLA and Error Budgets** (3 lessons: `01-defining-meaningful-slis.md`, `02-deriving-slos-and-error-budget-policies.md`, `03-multi-window-multi-burn-rate-alerting.md`)
+- **Module 10: On-Call and Incident Response** (3 lessons: `01-incident-lifecycle-and-signal-protocol.md`, `02-incident-command-roles-and-cadence.md`, `03-operating-calmly-during-sev1-outages.md`)

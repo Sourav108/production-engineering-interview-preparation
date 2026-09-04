@@ -39,4 +39,4 @@ A comprehensive tracking matrix mapping every production engineering core concep
 | **27. Chaos Engineering & Fault Injection** | [x] | [x] | [x] | [x] | [x] | [ ] | [ ] | [x] | [ ] | [ ] |
 | **28. Blameless Postmortems & Systemic Fixes** | [x] | [x] | [x] | [x] | [x] | [ ] | [ ] | [x] | [ ] | [ ] |
 | **29. 500 Production Interview Questions** | [x] | [x] | [x] | [x] | [x] | [ ] | [ ] | [x] | [ ] | [ ] |
-| **30. Reference Production System Designs** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
+| **30. Reference Production System Designs** | [x] | [x] | [x] | [x] | [x] | [ ] | [ ] | [x] | [ ] | [ ] |
